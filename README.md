@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shweta-4all&label=Profile%20views&color=0e75b6&style=flat" alt="shweta-4all" /> </p>
 
-- 🔭 I had work on two project **Online Examination**
+- 🔭 I had work on project **Online Examination**
 
 - 🌱 I’m currently learning **Angular**
 
